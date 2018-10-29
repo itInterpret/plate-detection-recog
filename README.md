@@ -1,1 +1,1 @@
-#test on unbuntu 18.04
+#test on ubuntu 18.04
